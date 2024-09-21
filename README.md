@@ -14,7 +14,9 @@ The project is organized into the following key components:
 - `Model_Training`: Involves the training and evaluation of convolutional neural networks for subtype classification.
 - `Results`: Stores visualizations, classification reports, and other outcome-related files.
 
-## Dependencies
+## Getting Started
+
+The dependencies required to use the notebook are listed as follows:
 
 - TensorFlow
 - Keras
@@ -24,6 +26,20 @@ The project is organized into the following key components:
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+Clone the repository and navigate to it by running the following command in your termninal:
+
+```bash
+git clone www.github.com/SreenithiSV/DEEPOVADX.git
+cd DEEPOVADX
+```
+
+Install the required dependenices using the following command:
+
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
