@@ -30,7 +30,7 @@ The dependencies required to use the notebook are listed as follows:
 Clone the repository and navigate to it by running the following command in your termninal:
 
 ```bash
-git clone www.github.com/SreenithiSV/DEEPOVADX.git
+git clone https://github.com/SreenithiSV/DEEPOVADX.git
 cd DEEPOVADX
 ```
 
